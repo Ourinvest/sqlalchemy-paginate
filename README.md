@@ -24,7 +24,7 @@ A small utility to paginate SqlAlchemy queries..
 Just do:
 
 ```
-$ pip install git+ssh://git@github.com/wizeline/sqlalchemy-pagination.git
+$ pip install git+ssh://git@github.com:Ourinvest/sqlalchemy-paginate.git
 ```
 
 ## Usage
