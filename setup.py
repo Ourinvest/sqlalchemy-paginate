@@ -20,8 +20,7 @@ def get_version():
 
 setup(
     name='sqlalchemy-pagination',
-#     version=get_version(),
-    version='0.0.2'
+    version=get_version(),
     url='https://github.com/wizeline/sqlalchemy-pagination',
     author='Wizeline',
     author_email='engineering@wizeline.com',
